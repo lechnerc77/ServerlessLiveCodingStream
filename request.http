@@ -1,0 +1,13 @@
+###
+POST http://localhost:7071/api/NotificationSender
+
+{
+    "name": "Christian Lechner"
+}
+
+###
+POST http://localhost:7071/api/NotificationSender
+
+{
+    "name": "Shreya"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "serverlesslivecodingstream",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@trycourier/courier": "^3.12.0"
+  }
+}
